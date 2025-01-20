@@ -1,2 +1,2 @@
 # LearnGit
-Hi, I am user B!
+Hi, I am user B! I have modified
